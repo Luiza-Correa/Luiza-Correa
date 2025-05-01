@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luiza-Correa
+- 👋 Hi, I’m Luiza
 - 👀 I’m interested in lightning physics, fluids dynamics, astronomy and machine learning
 - 🌱 I’m currently learning data science technics, radar meteorology and ML
 - 😄 Pronouns: she/her 
