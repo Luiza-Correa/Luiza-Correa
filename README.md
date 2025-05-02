@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Luiza
+# 👋 Hi, I’m Luiza! 
 - ⚡️ Meteorology undergraduate and cloud physics researcher 
-- 👀 I’m interested in lightning physics, fluids dynamics, astronomy and machine learning
-- 🌱 I’m currently learning data science technics, radar meteorology and ML
-- 😄 Pronouns: she/her 
+- 👀 I’m interested in lightning physics, fluids dynamics, astronomy and artificial intelligence
+- 🌱 I’m currently learning data science techniques, radar meteorology and machine learning
 
 
 <!---
